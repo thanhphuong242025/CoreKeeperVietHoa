@@ -1,3 +1,3 @@
 ﻿1.1
 https://github.com/thanhphuong242025/CoreKeeperVietHoa
-Sua loi font ten file v1.1
+Cap nhat chuc nang bat buoc ket noi mang va an file triet de
