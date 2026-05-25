@@ -1,0 +1,32 @@
+# Bỏ qua toàn bộ mã nguồn C# để giữ bảo mật code
+VietnameseFontPatcher/
+VietnameseInstaller/
+
+# Bỏ qua các file cài đặt gốc của game Core Keeper (Không push game lên GitHub)
+CoreKeeper.exe
+CoreKeeper_Data/
+D3D12/
+MonoBleedingEdge/
+UnityCrashHandler64.exe
+UnityPlayer.dll
+crashpad_handler.exe
+crashpad_wer.dll
+
+# Bỏ qua các file cài đặt đầu ra của bộ cài
+Việt hóa Core Keeper v*.exe
+VietnameseFontPatcher.dll
+version.dll
+doorstop.config.json
+doorstop_config.ini
+font.txt
+Font_TiengViet.otf
+
+# Bỏ qua thư mục biên dịch tạm thời của Visual Studio/dotnet
+**/bin/
+**/obj/
+.vs/
+.idea/
+
+# Bỏ qua các file log phát sinh
+*.log
+*log.txt
