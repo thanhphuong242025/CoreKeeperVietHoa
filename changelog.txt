@@ -1,6 +1,11 @@
+﻿=======================================
+Phiên bản 1.2 (2026-05-26 18:31)
+Nội dung: Sửa lỗi hiển thị chữ số, phím tắt chuột/bàn phím và đồng bộ font Việt hóa
+
 Phiên bản 1.1
 Nội dung:
 • Thêm tiếng Việt hoàn chỉnh cho giao diện, vật phẩm, lời thoại.
 • Sửa triệt để lỗi hiển thị font chữ tiếng Việt, lệch dòng, chồng chữ.
 • Tự động tối ưu hóa hiệu năng, không tạo file ghi log gây giật lag.
 • Sau khi cài đặt, mở game -> Cài đặt ngôn ngữ -> Chọn "Tiếng Việt".
+

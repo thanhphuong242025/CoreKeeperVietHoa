@@ -7178,7 +7178,7 @@ eyeColor	Text		Màu mắt
 filtering	Text		Đang lọc
 fishing	Text		Câu cá
 food	Text		Thức ăn
-foodFormat	Text		{0} {1} {2}
+foodFormat	Text		{2} {1} {0}
 fullness	Text		Độ no: {0}/{1}
 gainedItem	Text		Đã nhận {0}!
 gainedSoul	Text		Đã nhận linh hồn của {0}!
