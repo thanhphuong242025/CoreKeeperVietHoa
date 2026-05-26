@@ -1,0 +1,7 @@
+=======================================
+Phiên bản 1.1
+Nội dung:
+• Thêm tiếng Việt hoàn chỉnh cho giao diện, vật phẩm, lời thoại.
+• Sửa triệt để lỗi hiển thị font chữ tiếng Việt, lệch dòng, chồng chữ.
+• Tự động tối ưu hóa hiệu năng, không tạo file ghi log gây giật lag.
+• Sau khi cài đặt, mở game -> Cài đặt ngôn ngữ -> Chọn "Tiếng Việt".
