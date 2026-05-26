@@ -1,4 +1,3 @@
-=======================================
 Phiên bản 1.1
 Nội dung:
 • Thêm tiếng Việt hoàn chỉnh cho giao diện, vật phẩm, lời thoại.
