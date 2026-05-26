@@ -1,6 +1,8 @@
-﻿=======================================
-Phiên bản 1.2 (2026-05-26 18:31)
-Nội dung: Sửa lỗi hiển thị chữ số, phím tắt chuột/bàn phím và đồng bộ font Việt hóa
+Phiên bản 1.2
+Nội dung:
+• Sửa lỗi hiển thị chữ số, các biểu tượng nút bấm và chuột gốc của game.
+• Đồng bộ hóa font Việt hóa đẹp mắt, tránh hiện tượng trộn lẫn 2 font.
+• Tự động tối ưu hóa hiệu năng, dọn dẹp file ghi log.
 
 Phiên bản 1.1
 Nội dung:
