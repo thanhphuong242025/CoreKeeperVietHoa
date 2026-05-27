@@ -1,5 +1,9 @@
 PhiÃªn báº£n 1.2.1
 Ná»™i dung:
+â€¢ Bản dịch Việt hóa Core Keeper v1.2.1
+
+PhiÃªn báº£n 1.2.1
+Ná»™i dung:
 â€¢ Sß╗¡a lß╗ùi m├ú h├│a hiß╗ân thß╗ï trong changelog.txt v├á ho├án tß║Ñt ─æ├│ng g├│i
 
 Phiên bản 1.2.1

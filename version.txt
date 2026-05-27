@@ -1,3 +1,3 @@
 1.2.1
 https://github.com/thanhphuong242025/CoreKeeperVietHoa
-Sß╗¡a lß╗ùi m├ú h├│a hiß╗ân thß╗ï trong changelog.txt v├á ho├án tß║Ñt ─æ├│ng g├│i
+Bản dịch Việt hóa Core Keeper v1.2.1
