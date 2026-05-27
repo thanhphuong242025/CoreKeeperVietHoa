@@ -36,3 +36,10 @@ scratch_reflect.exe
 
 # KHÔNG đưa thư mục localization lên GitHub
 localization/
+
+# Các công cụ tạo key kích hoạt riêng tư
+GenKey.ps1
+TranslationProtector.exe
+license.key
+hwid.txt
+
