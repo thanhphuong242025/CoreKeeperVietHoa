@@ -1,6 +1,7 @@
 Phiên bản 1.2.1
 Nội dung:
-• Cập nhật bản dịch mới của việt hóa fix lỗi dịch thuật
+• Việt hóa toàn diện 100% cực kỳ mượt mà, dịch tay chất lượng cao.
+• Sửa toàn bộ lỗi hiển thị dấu nháy kép, lặp ký tự và lỗi font.
 
 Phiên bản 1.2
 Nội dung:
