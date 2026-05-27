@@ -1,3 +1,10 @@
+Phiên bản 1.2.1
+Nội dung:
+• Bảo mật các tệp tin Việt hóa sau khi giải nén bằng thuộc tính bảo vệ tệp tin hệ thống ẩn.
+• Khắc phục triệt để lỗi spam dấu nháy kép (dấu " bị lặp lại nhiều lần) trong bản dịch và thông tin game.
+• Chuyển đổi các thông báo kết nối, ngắt kết nối trong cửa sổ chat sang Tiếng Việt không dấu tương thích với font pixel của game.
+• Vô hiệu hóa tính năng việt hóa hoàn toàn, tự động khôi phục font gốc của game nếu sử dụng phiên bản cũ.
+
 Phiên bản 1.2
 Nội dung:
 • Sửa lỗi hiển thị chữ số, các biểu tượng nút bấm và chuột gốc của game.
