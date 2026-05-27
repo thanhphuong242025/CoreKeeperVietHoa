@@ -1,5 +1,9 @@
 ﻿Phiên bản 1.2.1
 Nội dung:
+• Đóng gói hoàn tất phiên bản Việt hóa v1.2.1
+
+Phiên bản 1.2.1
+Nội dung:
 • Đóng gói hoàn tất bản Việt hóa v1.2.1.
 • Cập nhật bổ sung dịch thuật bản 1.2.1.
 • Bảo mật các tệp tin Việt hóa sau khi giải nén bằng thuộc tính bảo vệ tệp tin hệ thống ẩn.
