@@ -1,5 +1,9 @@
 ﻿PhiÃªn báº£n 1.2.1
 Ná»™i dung:
+â€¢ ─É├│ng g├│i ho├án tß║Ñt bß║ún viß╗çt h├│a v1.2.1
+
+PhiÃªn báº£n 1.2.1
+Ná»™i dung:
 â€¢ Cß║¡p nhß║¡t bß╗ò sung dß╗ïch thuß║¡t bß║ún 1.2.1
 
 PhiÃªn báº£n 1.2.1
@@ -25,5 +29,6 @@ Nội dung:
 • Sửa triệt để lỗi hiển thị font chữ tiếng Việt, lệch dòng, chồng chữ.
 • Tự động tối ưu hóa hiệu năng, không tạo file ghi log gây giật lag.
 • Sau khi cài đặt, mở game -> Cài đặt ngôn ngữ -> Chọn "Tiếng Việt".
+
 
 
