@@ -1,10 +1,10 @@
-PhiÃªn báº£n 1.2.1
-Ná»™i dung:
-â€¢ Bản dịch Việt hóa Core Keeper v1.2.1
+﻿Phiên bản 1.2.1
+Nội dung:
+• Sửa lỗi encoding changelog, version.txt và bỏ qua encrypt_csv.py
 
-PhiÃªn báº£n 1.2.1
-Ná»™i dung:
-â€¢ Sß╗¡a lß╗ùi m├ú h├│a hiß╗ân thß╗ï trong changelog.txt v├á ho├án tß║Ñt ─æ├│ng g├│i
+Phiên bản 1.2.1
+Nội dung:
+• Sửa hoàn toàn lỗi font chữ hiển thị trên GitHub và các file log
 
 Phiên bản 1.2.1
 Nội dung:
