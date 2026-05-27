@@ -1,17 +1,11 @@
-﻿PhiÃªn báº£n 1.2.1
-Ná»™i dung:
-â€¢ ─É├│ng g├│i ho├án tß║Ñt bß║ún viß╗çt h├│a v1.2.1
-
 PhiÃªn báº£n 1.2.1
 Ná»™i dung:
-â€¢ Cß║¡p nhß║¡t bß╗ò sung dß╗ïch thuß║¡t bß║ún 1.2.1
-
-PhiÃªn báº£n 1.2.1
-Ná»™i dung:
-â€¢ Bß║ún dß╗ïch bß║úo mß║¡t 1.2.1
+â€¢ Sß╗¡a lß╗ùi m├ú h├│a hiß╗ân thß╗ï trong changelog.txt v├á ho├án tß║Ñt ─æ├│ng g├│i
 
 Phiên bản 1.2.1
 Nội dung:
+• Đóng gói hoàn tất bản việt hóa v1.2.1.
+• Cập nhật bổ sung dịch thuật bản 1.2.1.
 • Bảo mật các tệp tin Việt hóa sau khi giải nén bằng thuộc tính bảo vệ tệp tin hệ thống ẩn.
 • Khắc phục triệt để lỗi spam dấu nháy kép (dấu " bị lặp lại nhiều lần) trong bản dịch và thông tin game.
 • Chuyển đổi các thông báo kết nối, ngắt kết nối trong cửa sổ chat sang Tiếng Việt không dấu tương thích với font pixel của game.
@@ -29,6 +23,3 @@ Nội dung:
 • Sửa triệt để lỗi hiển thị font chữ tiếng Việt, lệch dòng, chồng chữ.
 • Tự động tối ưu hóa hiệu năng, không tạo file ghi log gây giật lag.
 • Sau khi cài đặt, mở game -> Cài đặt ngôn ngữ -> Chọn "Tiếng Việt".
-
-
-
