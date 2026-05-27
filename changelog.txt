@@ -1,14 +1,6 @@
 ﻿Phiên bản 1.2.1
 Nội dung:
-• Sửa lỗi encoding changelog, version.txt và bỏ qua encrypt_csv.py
-
-Phiên bản 1.2.1
-Nội dung:
-• Sửa hoàn toàn lỗi font chữ hiển thị trên GitHub và các file log
-
-Phiên bản 1.2.1
-Nội dung:
-• Đóng gói hoàn tất bản việt hóa v1.2.1.
+• Đóng gói hoàn tất bản Việt hóa v1.2.1.
 • Cập nhật bổ sung dịch thuật bản 1.2.1.
 • Bảo mật các tệp tin Việt hóa sau khi giải nén bằng thuộc tính bảo vệ tệp tin hệ thống ẩn.
 • Khắc phục triệt để lỗi spam dấu nháy kép (dấu " bị lặp lại nhiều lần) trong bản dịch và thông tin game.
