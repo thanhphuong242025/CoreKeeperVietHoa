@@ -27,6 +27,12 @@ Font_TiengViet.otf
 .vs/
 .idea/
 
-# Bỏ qua các file log phát sinh
+# Bỏ qua các file log phát sinh và file nháp
 *.log
 *log.txt
+chat_text_details.txt
+pugtext_details.txt
+scratch_reflect.exe
+
+# KHÔNG đưa thư mục localization lên GitHub
+localization/

@@ -1,3 +1,9 @@
+Phiên bản 1.2.1
+Nội dung:
+• Việt hóa toàn diện 100% cực kỳ mượt mà, dịch tay chất lượng cao.
+• Sửa toàn bộ lỗi hiển thị dấu nháy kép, lặp ký tự và lỗi font.
+• Khắc phục hoàn toàn hiển thị chữ số và phím tắt trong giao diện game.
+
 Phiên bản 1.2
 Nội dung:
 • Sửa lỗi hiển thị chữ số, các biểu tượng nút bấm và chuột gốc của game.
@@ -10,4 +16,3 @@ Nội dung:
 • Sửa triệt để lỗi hiển thị font chữ tiếng Việt, lệch dòng, chồng chữ.
 • Tự động tối ưu hóa hiệu năng, không tạo file ghi log gây giật lag.
 • Sau khi cài đặt, mở game -> Cài đặt ngôn ngữ -> Chọn "Tiếng Việt".
-
