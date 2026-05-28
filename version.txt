@@ -1,3 +1,3 @@
 ﻿1.2.2
 https://github.com/thanhphuong242025/CoreKeeperVietHoa
-Cập nhật bản dịch có dấu cho trạng thái kết nối mạng trong game.
+Khắc phục triệt để lỗi hiển thị font chữ tiếng Việt và lỗi hiển thị dấu hỏi chấm (?).
