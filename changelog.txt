@@ -1,14 +1,7 @@
-﻿PhiÃªn báº£n 1.2.2
-Ná»™i dung:
-â€¢ Cập nhật bản dịch có dấu cho trạng thái kết nối mạng trong game.
-
-PhiÃªn báº£n 1.2.2
-Ná»™i dung:
-â€¢ Khắc phục triệt để lỗi font hiển thị dấu hỏi chấm (?) trong cửa sổ thông báo/chat hệ thống (khi người chơi tham gia, ngắt kết nối hoặc các sự kiện trong game).
-
 Phiên bản 1.2.2
 Nội dung:
 • Khắc phục triệt để lỗi font hiển thị dấu hỏi chấm (?) trong cửa sổ thông báo/chat hệ thống (khi người chơi tham gia, ngắt kết nối hoặc các sự kiện trong game).
+• Cập nhật bản dịch có dấu cho trạng thái kết nối mạng trong game.
 
 Phiên bản 1.2.1
 Nội dung:
