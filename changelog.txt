@@ -1,4 +1,8 @@
-﻿Phiên bản 1.2.1
+Phiên bản 1.2.2
+Nội dung:
+• Khắc phục triệt để lỗi font hiển thị dấu hỏi chấm (?) trong cửa sổ thông báo/chat hệ thống (khi người chơi tham gia, ngắt kết nối hoặc các sự kiện trong game).
+
+Phiên bản 1.2.1
 Nội dung:
 • Cập nhật bổ sung dịch thuật bản 1.2.1.
 • Bảo mật các tệp tin Việt hóa sau khi giải nén bằng thuộc tính bảo vệ tệp tin hệ thống ẩn.
@@ -18,3 +22,4 @@ Nội dung:
 • Sửa triệt để lỗi hiển thị font chữ tiếng Việt, lệch dòng, chồng chữ.
 • Tự động tối ưu hóa hiệu năng, không tạo file ghi log gây giật lag.
 • Sau khi cài đặt, mở game -> Cài đặt ngôn ngữ -> Chọn "Tiếng Việt".
+
