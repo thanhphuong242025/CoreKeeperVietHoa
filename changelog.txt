@@ -1,7 +1,3 @@
-﻿PhiÃªn báº£n 1.2.2
-Ná»™i dung:
-â€¢ Khắc phục triệt để lỗi hiển thị font chữ tiếng Việt và lỗi hiển thị dấu hỏi chấm (?).
-
 Phiên bản 1.2.2
 Nội dung:
 • Khắc phục triệt để lỗi font hiển thị dấu hỏi chấm (?) trong cửa sổ thông báo/chat hệ thống (khi người chơi tham gia, ngắt kết nối hoặc các sự kiện trong game).
